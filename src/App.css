@@ -37,10 +37,6 @@
   }
 }
 
-.container-fluid {
-  background-image: url(../public/glassesImage/background.jpg);
-}
-
 img.img-glasses {
   display: inline !important;
 }
